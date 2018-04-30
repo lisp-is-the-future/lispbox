@@ -17,17 +17,24 @@ For more about what Lispbox is, read on; otherwise hop
 over to the download page and start downloading. What
 Lispbox gives you
 
-A full Lispbox distribtion contains:
+A full Lispbox distribution contains:
 
     * Emacs, the powerful, customizable text editor
+      (TODO: newest emacs version)
 
     * A Common Lisp implementation of your choosing
+      (TODO: newest SBCL version)
 
     * SLIME, the Superior Lisp Integration Mode for
       Emacs
+      (TODO: newest SLIME version)
 
     * ASDF, Another System Definition Facility, used to
       load Common Lisp libraries.
+      (TODO: newest ASDF version)
+    
+    * Quicklisp, used to load Common Lisp libraries
+      with SBCL. (TODO!)
 
     * The practical code from Practical Common Lisp
       ready to be loaded using ASDF.
